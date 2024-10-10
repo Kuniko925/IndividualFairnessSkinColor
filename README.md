@@ -10,11 +10,12 @@ Skin colour has historically been a focal point of discrimination in society. To
 | Wasserstein Distance           |         |          |
 | Wasserstein Distance with Sign |         |          |
 | Kuiper Distance                |         |          |
-|                                |         |          |
-|                                |         |          |
-|                                |         |          |
-|                                |         |          |
-|                                |         |          |
-|                                |         |          |
-|                                |         |          |
-|                                |         |          |
+| Kolmogorov–Smirnov metric      |         |          |
+| Cramér–von Mises distance      |         |          |
+| Anderson–Darling distance      |         |          |
+| Energy distance                |         |          |
+| Kruglov distance               |         |          |
+| Harmonic mean similarity       |         |          |
+| Fidelity similarity            |         |          |
+| Hellinger metric               |         |          |
+| Patrick–Fisher distance        |         |          |
