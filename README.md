@@ -5,3 +5,16 @@ Skin colour has historically been a focal point of discrimination in society. To
 
 ## Distance functions to measure skin colour nuance
 
+| Distance Metrics               | Summary | Equation |
+|--------------------------------|---------|----------|
+| Wasserstein Distance           |         |          |
+| Wasserstein Distance with Sign |         |          |
+| Kuiper Distance                |         |          |
+|                                |         |          |
+|                                |         |          |
+|                                |         |          |
+|                                |         |          |
+|                                |         |          |
+|                                |         |          |
+|                                |         |          |
+|                                |         |          |
