@@ -12,7 +12,7 @@ Skin colour has historically been a focal point of discrimination in society. To
 | Wasserstein Distance           |         |          |
 | Wasserstein Distance with Sign |         |          |
 | Kuiper Distance                |         |          |
-| Kolmogorov–Smirnov metric      |         |　　　　　 |
+| Kolmogorov–Smirnov metric      |         |　![Image Description](images/ks.png)　　　　　 |
 | Cramér–von Mises distance      |         |          |
 | Anderson–Darling distance      |         |          |
 | Energy distance                |         |          |
