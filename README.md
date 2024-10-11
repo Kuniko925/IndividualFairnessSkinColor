@@ -24,5 +24,5 @@ Skin colour has historically been a focal point of discrimination in society. To
 
 ![Image Description](images/fig_nuance_distribution.png)
 
-## Reference Statistical Distances
+## Reference
 Deza, Elena, et al. Encyclopedia of distances. Springer Berlin Heidelberg, 2009.
