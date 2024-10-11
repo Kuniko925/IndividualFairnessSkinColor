@@ -21,3 +21,5 @@ Skin colour has historically been a focal point of discrimination in society. To
 | Fidelity similarity            |         |          |
 | Hellinger metric               |         |          |
 | Patrick–Fisher distance        |         |          |
+
+![Image Description](images/fig_nuance_distribution.png)
