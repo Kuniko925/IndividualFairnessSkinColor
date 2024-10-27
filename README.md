@@ -7,20 +7,20 @@ Skin colour has historically been a focal point of discrimination in society. To
 
 ## Distance functions to measure skin colour nuance
 
-| Distance Metrics               | Summary | Equation |
-|--------------------------------|---------|----------|
-| Wasserstein Distance           |         |          |
-| Wasserstein Distance with Sign |         |          |
-| Kuiper Distance                |         |          |
-| Kolmogorov–Smirnov metric      |         |　        |
-| Cramér–von Mises distance      |         |          |
-| Anderson–Darling distance      |         |          |
-| Energy distance                |         |          |
-| Kruglov distance               |         |          |
-| Harmonic mean similarity       |         |          |
-| Fidelity similarity            |         |          |
-| Hellinger metric               |         |          |
-| Patrick–Fisher distance        |         |          |
+| Distance Metrics               | 
+|--------------------------------|
+| Wasserstein Distance           |
+| Wasserstein Distance with Sign |
+| Kuiper Distance                |
+| Kolmogorov–Smirnov metric      |
+| Cramér–von Mises distance      |
+| Anderson–Darling distance      |
+| Energy distance                |
+| Kruglov distance               |
+| Harmonic mean similarity       |
+| Fidelity similarity            |
+| Hellinger metric               |
+| Patrick–Fisher distance        |
 
 ![Image Description](images/fig_nuance_distribution.png)
 
