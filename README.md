@@ -10,7 +10,6 @@ Skin colour has historically been a focal point of discrimination in society. To
 | Distance Metrics               | 
 |--------------------------------|
 | Wasserstein Distance           |
-| Wasserstein Distance with Sign |
 | Kuiper Distance                |
 | Kolmogorov–Smirnov metric      |
 | Cramér–von Mises distance      |
@@ -21,6 +20,7 @@ Skin colour has historically been a focal point of discrimination in society. To
 | Fidelity similarity            |
 | Hellinger metric               |
 | Patrick–Fisher distance        |
+| Kullback–Leibler distance      |
 
 ![Image Description](images/fig_nuance_distribution.png)
 
